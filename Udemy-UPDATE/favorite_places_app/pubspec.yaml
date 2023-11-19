@@ -1,0 +1,41 @@
+name: favorite_places_app
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^5.0.0
+  uuid: ^3.0.7
+  flutter_riverpod: ^2.3.6
+  image_picker: ^0.8.9
+  location: ^4.4.0
+  http: ^1.0.0
+  google_maps_flutter: ^2.3.1
+  path_provider: ^2.0.15
+  path: ^1.8.3
+  sqflite: ^2.2.8+4
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+
+
+
+  #
